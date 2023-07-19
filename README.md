@@ -18,4 +18,3 @@ Dar la temperatura en base a su geolocalizacion.
 | Descripción            | Dar la temperatura en base a su geolocalizacion. |
 | Fecha de Carga         | 21/06/23                                                                 |
 
-Espero que este README sea útil para tu tarea 10 en la universidad. ¡Si tienes alguna otra solicitud o pregunta, no dudes en decírmelo!
